@@ -3,6 +3,8 @@
  * Written in Vanilla JS
  */
 
+const API_URL = "https://api-pos.muhammadzio04.workers.dev";
+
 const DB_PRODUCTS = 'kasir_products';
 const DB_HISTORY = 'kasir_history';
 const DB_MUTATIONS = 'kasir_mutations';
